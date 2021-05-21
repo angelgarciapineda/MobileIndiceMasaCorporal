@@ -4,7 +4,7 @@
              x:Class="MobileIndiceMasaCorporal.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+        <Frame BackgroundColor="#FF5733" Padding="24" CornerRadius="0">
             <Label Text="Calculadora IMC" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text="Calcula tu Indice de Masa Corporal" FontSize="Large"  Padding="30,10,30,10"/>
